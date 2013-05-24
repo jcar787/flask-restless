@@ -15,6 +15,9 @@ Version 0.12.2-dev
 
 Not yet released.
 
+- #51: Use `mimerender <http://mimerender.readthedocs.org>`_ to render
+  dictionaries to JSON format.
+
 Version 0.12.1
 --------------
 
